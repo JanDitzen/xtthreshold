@@ -151,12 +151,12 @@ Free University of Bozen-Bolzano
 **Yiannis Karavias**  
 Brunel University  
 📧 [yiannis.karavias@brunel.ac.uk](mailto:yiannis.karavias@brunel.ac.uk)  
-🌐 [Google Scholar](https://sites.google.com/site/yianniskaravias/)
+🌐 [Webpage](https://sites.google.com/site/yianniskaravias/)
 
 **Joakim Westerlund**  
 Lund University  
 📧 [joakim.westerlund@nek.lu.se](mailto:joakim.westerlund@nek.lu.se)  
-🌐 [Google Scholar](https://sites.google.com/site/perjoakimwesterlund/)
+🌐 [Webpage](https://sites.google.com/site/perjoakimwesterlund/)
 
 ---
 
@@ -172,7 +172,7 @@ net from https://github.com/JanDitzen/xtthreshold
 
 ## Notes
 
-- Requires Stata version 15 or higher.
+- Requires Stata version 16 or higher.
 
 ---
 
