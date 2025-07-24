@@ -146,7 +146,7 @@ estat graph lr
 **Jan Ditzen**  
 Free University of Bozen-Bolzano  
 📧 [jan.ditzen@unibz.it](mailto:jan.ditzen@unibz.it)  
-🌐 [www.jan.ditzen.net](https://www.jan.ditzen.net)
+🌐 [Webpage](https://www.jan.ditzen.net)
 
 **Yiannis Karavias**  
 Brunel University  
