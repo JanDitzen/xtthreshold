@@ -133,7 +133,7 @@ estat graph lr
 
 - **Ditzen, J. & Karavias, Y. (2025)**  
   *Interactive, Grouped and Non-separable Fixed Effects: A Practitioner’s Guide to the New Panel Data Econometrics*  
-  [Link](abc)
+  [Link](https://arxiv.org/abs/2507.19099)
 
 - **Ditzen, J., Karavias, Y. & Westerlund, J. (2025)**  
   *Threshold Regression in Interactive Fixed Effects Panel Data and the Impact of Inflation on Economic Growth*  
