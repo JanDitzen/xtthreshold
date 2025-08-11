@@ -165,7 +165,7 @@ Lund University
 Run the following command in Stata to install:
 
 ```stata
-net from https://github.com/JanDitzen/xtthreshold
+net from https://janditzen.github.io/xtthreshold/
 ```
 
 ---
