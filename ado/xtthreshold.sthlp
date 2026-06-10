@@ -99,12 +99,13 @@ Then estimate the threshold as:{p_end}
 
 {marker DK2025}{p 4 8}Ditzen, J. & Karavias, Y. (2025) 
 Interactive, Grouped and Non-separable Fixed Effects: A Practitioner's Guide to the New Panel Data Econometrics
-{browse "abc":Link}.{p_end}
+{browse "https://arxiv.org/abs/2507.19099":Link}.{p_end}
 
 
-{marker DKW2025}{p 4 8}Ditzen, J., Karavias, Y. & Westerlund, J. (2025) 
-Threshold Regression in Interactive Fixed Effects Panel Data and the Impact of Inflation on Economic Growth
-{browse "abc":Link}.{p_end}
+{marker DKW2025}{p 4 8}Ditzen, J., Karavias, Y. & Westerlund, J. (2026) 
+Threshold Regression for Fixed- T Panel Data with Interactive Fixed Effects. 
+Oxford Bulletin of Economics and Statistics. 
+{browse "https://onlinelibrary.wiley.com/doi/10.1111/obes.70102":Link}.{p_end}
 
 {marker about}{title:Authors}
 
@@ -122,7 +123,7 @@ Threshold Regression in Interactive Fixed Effects Panel Data and the Impact of I
 
 {title:How to install}
 
-{p 4 8}The latest versions can be obtained via {stata "net from https://github.com/JanDitzen/xtthreshold"}.{p_end}
+{p 4 8}The latest versions can be obtained via {stata "net from https://janditzen.github.io/xtthreshold/"}.{p_end}
 
 {title:Notes}
 
